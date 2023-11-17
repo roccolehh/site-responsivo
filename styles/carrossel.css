@@ -35,3 +35,10 @@
     display: flex;
     justify-content: space-between;
 }
+
+.card {
+    border-radius: 10 px;
+    background: var(--branco);
+    margin: 1em;
+    padding: 1em;
+}
